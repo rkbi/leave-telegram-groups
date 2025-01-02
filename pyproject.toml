@@ -1,0 +1,7 @@
+[project]
+name = "leave-telegram-groups"
+version = "0.1.0"
+description = "A simple script to leave tleegram groups en masse"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
