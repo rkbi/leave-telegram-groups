@@ -1,4 +1,4 @@
-# Telegram Group Leave Script
+# Leave telegram groups in bulk
 
 This script helps you leave groups in Telegram using the `Telethon` library.
 
