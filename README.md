@@ -25,10 +25,10 @@ This script helps you leave groups in Telegram using the `Telethon` library.
    ```bash
    uv pip install telethon
 
-4. **Run the Script**
+4. **Update `config.ini` With Your API ID and API Hash**
+   Visit https://my.telegram.org/auth to get your API credentials (API ID and API Hash) and replace the placeholders in the `config.ini` file.
+
+5. **Run the Script**
     Run the Script After installation, run the Python script to leave Telegram groups:   
     ```bash
    python leave.py
-
-5. **Get Your API ID and API Hash**
-   Visit https://my.telegram.org/auth to get your API credentials (API ID and API Hash) and replace the placeholders in the `config.ini` file.
