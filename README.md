@@ -6,6 +6,7 @@ This script helps you leave groups in Telegram using the `Telethon` library.
 
 - **Python 3.8+**: Ensure you have Python installed.
 - **UV**: The package manager for Python environments (`uv`).
+- Collect your API ID from https://my.telegram.org/auth
 
 ## Setup Instructions
 
